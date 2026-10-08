@@ -1,4 +1,4 @@
-# Semilleros ? FCFB UMSA
+# Semilleros - FCFB UMSA
 
 Prototipo en React con **JavaScript y JSX**, usando Vite. Incluye portada por bloques, directorio con b?squeda y filtros, fichas de semilleros, convocatorias y preguntas frecuentes. Los tres semilleros son ejemplos identificados; la identidad visual es provisional.
 
