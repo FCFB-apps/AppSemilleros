@@ -5,6 +5,10 @@
   "type": "module",
   "scripts": {
     "dev": "vite --host 0.0.0.0",
+    "build": "vite build",
+    "preview": "vite preview --host 0.0.0.0",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist",
     "format": "prettier --write ."
   },
   "dependencies": {
@@ -15,6 +19,7 @@
   },
   "devDependencies": {
     "@vitejs/plugin-react": "^5.1.0",
+    "gh-pages": "^6.3.0",
     "prettier": "^3.9.9",
     "vite": "^7.3.0"
   }
