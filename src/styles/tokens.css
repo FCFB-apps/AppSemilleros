@@ -1,0 +1,32 @@
+:root {
+  --brand: #80283b;
+  --brand-hover: #651e30;
+  --brand-deep: #431b28;
+  --brand-soft: #f3e8ec;
+  --brand-line: #d6b7c1;
+
+  --ink: #2d2630;
+  --muted: #655e68;
+  --paper: #fcfafb;
+  --surface: #ffffff;
+  --wash: #f1eff2;
+  --line: #ded9df;
+  --silver: #c9cbd0;
+  --silver-light: #ececf0;
+  --silver-dark: #74717e;
+  --on-dark: #fbf7f9;
+  --on-dark-muted: #d6cbd1;
+  --on-dark-line: #967783;
+  --header-background: rgb(252 250 251 / 97%);
+  --surface-glass: rgb(255 255 255 / 88%);
+  --shadow: rgb(67 27 40 / 8%);
+  --art-glow: rgb(201 203 208 / 18%);
+  --art-overlay: rgb(255 255 255 / 4%);
+
+  --art-highlight: #f5eef2;
+  --art-mid: #aa6177;
+  --art-depth: #651e30;
+  --art-stroke: #9b5269;
+  --art-detail: #f5eef2;
+  --font: 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
+}
